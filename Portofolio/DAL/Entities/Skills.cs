@@ -1,0 +1,12 @@
+namespace Portofolio.DAL.Entities;
+
+public class Skills
+{
+    public int Id { get; set; }
+    
+    public string Title { get; set; }
+    
+    public int Value { get; set; }
+    
+    
+}
